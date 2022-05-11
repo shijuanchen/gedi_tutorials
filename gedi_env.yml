@@ -1,0 +1,19 @@
+name: gedi
+dependencies:
+  - requests
+  - pandas
+  - shapely
+  - geopandas
+  - h5py
+  - numpy
+  - tabulate
+  - numpy
+  - pandas
+  - matplotlib
+  - IPython
+  - scipy
+  - pip:
+    - glob
+    - os
+    - matplotlib_scalebar
+    - datetime

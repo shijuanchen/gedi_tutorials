@@ -18,3 +18,31 @@ These tutorials demonstrate how to discover, access and use GEDI science data pr
 
 ## Related Tutorials
 More tutorials related to ORNL DAAC data and web services can be found at the [ORNL DAAC Learning](https://daac.ornl.gov/resources/learning/) page.
+
+My notes:
+package required: 
+requests
+datetime
+pandas
+shapely
+geopandas
+contextily
+h5py
+numpy
+glob
+os
+tabulate
+contextily
+numpy
+pandas
+matplotlib
+IPython
+matplotlib_scalebar
+scipy
+
+the package of "contextily" cannot found and has not been installed.
+The environment is mostly correctly install, although there is one error:
+Pip subprocess output:
+Pip subprocess error:
+ERROR: Could not find a version that satisfies the requirement glob (from versions: none)
+ERROR: No matching distribution found for glob 
