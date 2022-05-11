@@ -7,7 +7,7 @@ dependencies:
   - h5py
   - numpy
   - tabulate
-  - numpy
+  - jupyter
   - pandas
   - matplotlib
   - IPython
